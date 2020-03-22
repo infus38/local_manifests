@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="infus38/android_device_sony_flamingo" path="device/sony/flamingo" revision="cm-14.1" remote="github" />
+  <!-- <project name="/android_device_sony_tianchi" path="device/sony/tianchi" revision="cm-14.1" remote="github" /> 
+  <project name="/android_device_sony_seagull" path="device/sony/seagull" revision="cm-14.1" remote="github" />
+  <project name="/android_device_sony_eagle" path="device/sony/eagle" revision="cm-14.1" remote="github" /> -->
+  <project name="infus38/android_device_sony_yukon" path="device/sony/yukon" remote="github" revision="cm-14.1" />
+  <project name="infus38/kernel" path="kernel/sony/msm8226" remote="github" revision="test/LA.BF.1.1.3-02310-8x26.0" />
+  <project name="Sony-Yukon/android_vendor_sony" path="vendor/sony" remote="github" revision="nougat" />
+  <project name="LineageOS/android_device_sony_common" path="device/sony/common" remote="github" revision="cm-14.1" />
+  <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-14.1" />
+  <project name="LineageOS/android_external_busybox" path="external/busybox" remote="github" revision="cm-14.1" />
+  <project name="LineageOS/android_hardware_sony_thermanager" path="hardware/sony/thermanager" remote="github" revision="cm-14.1" />
+  <project name="LineageOS/android_hardware_sony_macaddrsetup" path="hardware/sony/macaddrsetup" remote="github" revision="cm-14.1" />
+  <project name="LineageOS/android_hardware_sony_timekeep" path="hardware/sony/timekeep" remote="github" revision="cm-14.1" />
+
+</manifest>
