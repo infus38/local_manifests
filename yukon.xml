@@ -13,5 +13,5 @@
   <project name="LineageOS/android_hardware_sony_thermanager" path="hardware/sony/thermanager" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_hardware_sony_macaddrsetup" path="hardware/sony/macaddrsetup" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_hardware_sony_timekeep" path="hardware/sony/timekeep" remote="github" revision="cm-14.1" />
-  <project name="omnirom/android_bootable_recovery" path="bootable/recovery-twrp" remote="github" revision="android-7.1" />
+  <project name="infus38/android_bootable_recovery" path="bootable/recovery-twrp" remote="github" revision="android-7.1" />
 </manifest>
